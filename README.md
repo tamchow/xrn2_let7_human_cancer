@@ -1,0 +1,1 @@
+Repository for all code related to the publication __XRN2-mediated regulation of let-7 microRNAs is of critical pathophysiological significance in Humans__ (preprint available at [biorxiv](https://www.biorxiv.org/content/10.1101/2021.08.20.457117v2))
