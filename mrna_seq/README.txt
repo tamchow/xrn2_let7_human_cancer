@@ -1,0 +1,2 @@
+Genome reference files in ./ref/hsa/ are stubs, please replace them with the actual files from Ensembl before running the pipelines/scripts
+They are stubs to preserve storage space on Github and avoid file upload errors
